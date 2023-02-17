@@ -5,7 +5,7 @@ a = 6
 b = 2
 
 # Create a variable called 'answer' and assign it the difference of a and b.
-answer = a / b
+answer = a - b
 
 
 print(answer)
