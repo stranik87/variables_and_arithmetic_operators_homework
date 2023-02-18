@@ -7,4 +7,4 @@ b = 4
 c = 1
 
 # Create a variable called 'answer' and assign it the expression value: a - b + c
-answer = a - b + c
+answer  = a - b + c
